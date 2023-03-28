@@ -1,4 +1,4 @@
-# BUPEC
+
 # BUP Economics Club
 
 This website is being developed for the BUP Economics Club. The purpose of this website is to provide information about the club's activities, events, and members.
